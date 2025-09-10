@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafiogft-starter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b4ea66acf224b219d58a0795aa19ae196346863")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafiogft-starter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafiogft-starter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
